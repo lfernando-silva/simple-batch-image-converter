@@ -1,0 +1,8 @@
+node_modules
+.env
+data/*
+output/*
+.vscode
+
+!data/.gitkeep
+!output/.gitkeep
