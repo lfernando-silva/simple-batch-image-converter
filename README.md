@@ -8,3 +8,11 @@ Example:
 CONVERT_FROM=svg
 CONVERT_TO=webp
 ```
+
+3. Run the script `index.js`
+
+```
+$ node index.js
+```
+
+4. Once the convertion is done, the files will be in the folder `/output`
